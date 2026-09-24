@@ -4,7 +4,7 @@ import {
   AreaChart, Area, BarChart, Bar, LineChart, Line,
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import { generateTimeSeriesData, metricsSummary } from '../data/mockData';
+import { generateTimeSeriesData } from '../data/mockData';
 
 export default function Observability() {
   const timeSeriesData = useMemo(() => generateTimeSeriesData(7), []);

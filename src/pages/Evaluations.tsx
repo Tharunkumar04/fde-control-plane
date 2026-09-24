@@ -1,4 +1,4 @@
-import { BarChart3, CheckCircle2, XCircle, Clock, Target, Zap } from 'lucide-react';
+import { BarChart3, CheckCircle2, Clock, Target, Zap } from 'lucide-react';
 import { evaluations, workflows } from '../data/mockData';
 
 export default function Evaluations() {
