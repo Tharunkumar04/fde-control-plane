@@ -2,7 +2,7 @@
 
 > **A production-grade, local-first Forward Deployed Engineer platform for AI workflow orchestration, RAG, tool integration, evaluation, and observability.**
 
-![FDE Control Plane Dashboard](https://image.qwenlm.ai/generated-images/c4a86cbf-9055-490b-b479-5e7c886e5f42/_result.png)
+
 
 ---
 
