@@ -1,0 +1,12 @@
+# This file disables platform default workflows
+# If your hosting platform (Val Town, Replit, etc.) adds automatic
+# Deno or Webpack workflows, this file may help disable them.
+
+# Disable Deno
+deno: false
+
+# Disable Webpack
+webpack: false
+
+# Only use repository workflows
+use_repository_workflows_only: true
